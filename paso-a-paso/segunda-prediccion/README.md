@@ -1,4 +1,5 @@
 # Segunda prediccion
+Los de `BLD` los fui viendo uno por uno y comparando, pero los de `REC` no.
 
 ## BLD01
 
@@ -35,3 +36,10 @@ Obtuve el mejor resultado hasta ahora con el modelo de entrenamiento `Logistic R
 ### Combinacion BLD01, BLD02 y BLD03
 
 Obtuve el mejor resultado hasta ahora con el modelo de entrenamiento `Logistic Regression` un 72.62% de accurracy
+
+# Conclusion Final
+La mejora no es tan significativa como para considerar quitar los `outliers`
+
+Con respecto a las columnas `REC`, las ejecute todas juntas (les reemplace los outliers por la media) y me di cuenta que empeoraban la performance del modelo.
+
+Entonces, mi conclusion es que no vale la pena quitar los outliers en este conjunto de datos.
