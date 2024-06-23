@@ -2,14 +2,14 @@
 
 ### Universidad Nacional de la Matanza - 1C 2024
 
-*Docentes*:
+**Docentes**:
 
 - Myriam Noemi Gil
 - Pablo Soligo
 - Abraham Alan Panuccio
 - Facundo Nicolas Vogel
 
-*Alumno*: Facundo Nicolas Carballo
+**Alumno**: Facundo Nicolas Carballo
 
 ---
 
