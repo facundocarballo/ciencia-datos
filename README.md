@@ -4,9 +4,7 @@
 
 ##### Primer Cuatrimestre
 
-Al profe le gustaria que implementemos una solucion con un Pipeline
-
-Basicamente tenemos que aplicar las cosas que vamos viendo en las clases....
+![Caratula](images/caratula.png)
 
 ---
 
