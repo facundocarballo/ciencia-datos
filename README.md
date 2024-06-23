@@ -21,3 +21,10 @@ Estamos ante un dataset de datos no discretos, sino mas bien continuos. Por lo t
 
 # Paso a Paso del desarrollo del modelo final
 El paso a paso de las predicciones se encuentra en la carpeta `paso-a-paso`
+
+---
+1. Modos de Entrenamiento
+2. Standar Scaler
+3. Cargamos el dataset
+4. Chequeamos los string del dataset
+5. Pipeline
