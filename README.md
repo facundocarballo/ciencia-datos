@@ -1,17 +1,15 @@
 ## Trabajo Practico - Ciencia de Datos
 
-#### Universidad Nacional de la Matanza - 2024
+### Universidad Nacional de la Matanza - 1C 2024
 
-Docentes:
+*Docentes*:
 
 - Myriam Noemi Gil
 - Pablo Soligo
 - Abraham Alan Panuccio
 - Facundo Nicolas Vogel
 
-Alumno: Facundo Nicolas Carballo
-
-##### Primer Cuatrimestre
+*Alumno*: Facundo Nicolas Carballo
 
 ---
 
