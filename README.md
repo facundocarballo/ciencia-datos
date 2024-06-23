@@ -2,9 +2,16 @@
 
 #### Universidad Nacional de la Matanza - 2024
 
-##### Primer Cuatrimestre
+Docentes:
 
-![Caratula](images/caratula.png)
+- Myriam Noemi Gil
+- Pablo Soligo
+- Abraham Alan Panuccio
+- Facundo Nicolas Vogel
+
+Alumno: Facundo Nicolas Carballo
+
+##### Primer Cuatrimestre
 
 ---
 
